@@ -50,5 +50,5 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy70381&layout=compact)
+![Top Langs](https://github-readme-stats-henna-chi.vercel.app/api/top-langs/?username=lucy70381&layout=compact&langs_count=15&hide=C++,CMake,EJS)
 
