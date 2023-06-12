@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucy</h1>
 <h3 align="center">A passionate frontend developer from Taiwan.</h3>
 
-🌱 I’m currently learning **React, TypeScript, Next.js**
-
 <h3 align="left">Web Languages and Framework:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -48,7 +46,11 @@
   <a href="https://github.com/wix/Detox" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/wix/Detox/master/docs/img/DetoxLogo.png" alt="rn-detox" width="40" height="40"/>
   </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="rn-detox" width="40" height="40"/>
+  </a>
 </p>
 
+![Lucy's GitHub stats](https://github-readme-stats-henna-chi.vercel.app/api?username=lucy70381&count_private=true)
 ![Top Langs](https://github-readme-stats-henna-chi.vercel.app/api/top-langs/?username=lucy70381&layout=compact&langs_count=8&hide=EJS,HTML,CMake,C%2B%2B)
 
